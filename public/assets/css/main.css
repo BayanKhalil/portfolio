@@ -1,7 +1,7 @@
 
-@import 'public/assets/css/base.css';
-@import 'public/assets/css/layout.css';
-@import 'public/assets/css/modules.css';
+@import 'base.css';
+@import 'layout.css';
+@import 'modules.css';
 /*
 	Prologue by HTML5 UP
 	html5up.net | @ajlkn
